@@ -1,0 +1,9 @@
+
+
+*** Hello, my name is Thanos
++ I'm currently a *med student* at MU-Sofia
++ Linux, free and open source software enthusiast
+
+
+*** Github stats
+[[https://github-readme-stats.vercel.app/api?username=ThanosApollo]]
