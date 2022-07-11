@@ -1,7 +1,7 @@
 
 
 ### Hello, my name is Thanos
-+ I'm currently a ***med student*** at MU-Sofia
++ I'm currently a **med student** at MU-Sofia
 + Linux, free and open source software enthusiast
 
 
