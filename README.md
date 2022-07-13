@@ -2,6 +2,7 @@
 
 ### About me 
 + I'm currently a **med student** at MU-Sofia
++ I create projects to make my life easier as well as for fun
 + Linux, free and open source software enthusiast
 
 
