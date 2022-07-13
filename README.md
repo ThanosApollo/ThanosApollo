@@ -1,6 +1,6 @@
 
 
-### Hello, my name is Thanos
+### About me 
 + I'm currently a **med student** at MU-Sofia
 + Linux, free and open source software enthusiast
 
