@@ -15,3 +15,15 @@
 
 </p>
 
+### My favorite repos 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanosApollo&repo=config&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanosApollo&repo=MUS-Bot&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanosApollo&repo=MedNotes&theme=gotham" />
+</a>
+
